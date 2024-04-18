@@ -1,7 +1,7 @@
 const galleryImages = [
     'cia_img1.jpg',
     'cia_img3.jpg',
-    'cia_img2.jpg',
+    'cia_img2.JPG',
 ];
 
 
